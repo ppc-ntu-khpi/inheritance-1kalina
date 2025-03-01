@@ -7,8 +7,8 @@ public class Animal {
     protected int weight;
 
     public Animal() {
-        name="generic animal";
-        weight=25;
+        name="Toothless";
+        weight=805;
     }
 
     public void eat() {
